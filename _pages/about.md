@@ -19,5 +19,6 @@ My research interests lie in B5G/6G wireless communications, especially Integrat
 submitted to *ICC Workshop* and available on [*arXiv:2502.03169*](https://arxiv.org/pdf/2502.03169).
 
 # Education
-B.Eng. in Communication Engineering, University of Electronic Science and Technology of China (Sept. 2022 - Jun. 2026(expected))
-Advisor: [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm)
+University of Electronic Science and Technology of China
+* B.Eng. in Communication Engineering, Sept. 2022 - Jun. 2026(expected)
+* Advisor: [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm)
