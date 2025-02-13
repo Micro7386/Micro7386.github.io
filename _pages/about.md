@@ -11,7 +11,7 @@ Hi! Thanks for visiting my homepage!
 
 I am Wang Yushen, a third-year undergraduate student from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). My major is communication engineering and I am currently under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/), UESTC.  
 
-My research interests lie in B5G/6G wireless communications, especially Integrated Sensing and Communications(ISAC), near-field communications(NFC), movable antennas(MA), as well as machine learning and deep learning.
+My research interests lie in B5G/6G wireless communications, especially Integrated Sensing and Communications(ISAC), near-field communications(NFC), movable antennas(MAs), as well as AI for Communications.
 
 # Publications
 1. **Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing**  
