@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Thanks for your visit to my homepage! I'm Wang Yushen, a third-year undergraduate student from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). My major is communication engineering and I am currrently under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/), UESTC.
+# About me
+Hi! Thanks for your visit to my homepage!  
+I am Wang Yushen, a third-year undergraduate student from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/). My major is communication engineering and I am currrently under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/), UESTC.
 
-My research interests lie in B5G/6G wireless communications (especially Integrated Sensing and Communications, Near-field communications, Movable Antennas. etc.) and machine learning.
+My research interests lie in B5G/6G wireless communications (especially Integrated Sensing and Communications, Near-field communications, Movable Antennas etc.) and machine learning.
 
 # Publications
 1. **Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing**  
