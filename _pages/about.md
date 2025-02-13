@@ -15,7 +15,7 @@ My research interests lie in B5G/6G wireless communications (especially Integrat
 
 # Publications
 1. **Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing**  
-**Y. Wang**, [W. Mei](https://scholar.google.com/citations?user=JtHltIoAAAAJ&hl=zh-CN&oi=ao), [X. Wei](https://scholar.google.com/citations?user=pkDJmeMAAAAJ&hl=zh-CN), [B. Ning](https://scholar.google.com/citations?user=ftQU5UcAAAAJ&hl=zh-CN), and [Z. Chen](https://scholar.google.com/citations?user=wnGtLtsAAAAJ&hl=zh-CN)  
+[**Y. Wang**](https://micro7386.github.io/), [W. Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm), [X. Wei](https://scholar.google.com/citations?user=pkDJmeMAAAAJ&hl=zh-CN), [B. Ning](https://scholar.google.com/citations?user=ftQU5UcAAAAJ&hl=zh-CN), and [Z. Chen](https://scholar.google.com/citations?user=wnGtLtsAAAAJ&hl=zh-CN)  
 submitted to *ICC Workshop* and available on [*arXiv:2502.03169*](https://arxiv.org/pdf/2502.03169).
 
 # Education
