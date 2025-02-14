@@ -14,7 +14,7 @@ I am Wang Yushen, a third-year undergraduate student majoring in communication e
 My research is centered on the frontier of B5G/6G wireless communications, particularly Integrated Sensing and Communications (ISAC), near-field communications (NFC), movable antennas (MAs)-aided communications, extremely large multiple-input-multiple-output (XL-MIMO) as well as AI for communications.
 
 # Publications
-1. **Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing**  
+1. ## Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing  
 **Y. Wang**, [W. Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm), [X. Wei](https://scholar.google.com/citations?user=pkDJmeMAAAAJ&hl=zh-CN), [B. Ning](https://scholar.google.com/citations?user=ftQU5UcAAAAJ&hl=zh-CN), and [Z. Chen](https://scholar.google.com/citations?user=wnGtLtsAAAAJ&hl=zh-CN)  
 submitted to *ICC Workshop* and available on *arXiv*. [[PDF](https://arxiv.org/pdf/2502.03169)]  
 (If you find our work relevant, please consider citing it as: Y. Wang, W. Mei, X. Wei, B. Ning, and Z. Chen, ''Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing,'' 2025, *arxiv:2502.03169*.)
