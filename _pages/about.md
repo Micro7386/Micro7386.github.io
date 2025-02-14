@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! Thanks for visiting my homepage!  
 
-I am Wang Yushen, a third-year undergraduate student majoring in communication engineering at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/), UESTC.  
+I am Wang Yushen, a third-year undergraduate student majoring in communication engineering at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) under the supervision of Prof.[Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/), UESTC.  
 
 My research is centered on the frontier of B5G/6G wireless communications, particularly Integrated Sensing and Communications (ISAC), near-field communications (NFC), movable antennas (MAs)-aided communications, extremely large multiple-input-multiple-output (XL-MIMO) as well as AI for communications.
 
