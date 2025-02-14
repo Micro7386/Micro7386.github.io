@@ -23,7 +23,7 @@ submitted to *ICC Workshop* and available on *arXiv*. [[PDF](https://arxiv.org/p
 <table>
     <tr>
         <td style="vertical-align: top;">
-            <img src="../images/UESTC.png" alt="UESTC_banner" style="max-width: 100px; height: auto;">
+            <img src="../images/UESTC.png" alt="UESTC_banner" style="max-width: 30px; height: auto;">
         </td>
         <td>
             <p>University of Electronic Science and Technology of China</p>
