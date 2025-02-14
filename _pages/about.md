@@ -20,16 +20,17 @@ submitted to *ICC Workshop* and available on *arXiv*. [[PDF](https://arxiv.org/p
 (If you find our work relevant, please consider citing it as: Y. Wang, W. Mei, X. Wei, B. Ning, and Z. Chen, ''Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing,'' 2025, *arxiv:2502.03169*.)
 
 # Education
-<div style="display: flex; align-items: center; width: 10%;">
-    <div style="flex-shrink: 0; margin-right: 20px;">
-        <img src="../images/UESTC.png" alt="UESTC_banner" style="max-width: 100px; height: auto;">
-    </div>
-    <div style="flex-grow: 1;">
-        <p>University of Electronic Science and Technology of China</p>
-        <ul>
-            <li>B.Eng. in Communication Engineering, Sept. 2022 - Jun. 2026 (expected)</li>
-            <li>Advisor: <a href="https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm">Prof. Weidong Mei</a></li>
-        </ul>
-    </div>
-</div>
-
+<table>
+    <tr>
+        <td style="vertical-align: top;">
+            <img src="../images/UESTC.png" alt="UESTC_banner" style="max-width: 100px; height: auto;">
+        </td>
+        <td>
+            <p>University of Electronic Science and Technology of China</p>
+            <ul>
+                <li>B.Eng. in Communication Engineering, Sept. 2022 - Jun. 2026 (expected)</li>
+                <li>Advisor: <a href="https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm">Prof. Weidong Mei</a></li>
+            </ul>
+        </td>
+    </tr>
+</table>
