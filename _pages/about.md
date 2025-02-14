@@ -19,14 +19,5 @@ My research is centered on the frontier of B5G/6G wireless communications, parti
 submitted to *ICC Workshop* and available on *arXiv*. [[PDF](https://arxiv.org/pdf/2502.03169)]  
 (If you find our work relevant, please consider citing it as: Y. Wang, W. Mei, X. Wei, B. Ning, and Z. Chen, ''Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing,'' 2025, *arxiv:2502.03169*.)
 
-# Education
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; margin-right: 10px;">
-        ![UESTC_banner](../images/UESTC.png)
-    </div>
-    <div style="flex: 2;">
-        University of Electronic Science and Technology of China
-        * B.Eng. in Communication Engineering, Sept. 2022 - Jun. 2026 (expected)
-        * Advisor: [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm)
-    </div>
-</div>
+| ![UESTC_banner](../images/UESTC.png) | University of Electronic Science and Technology of China<br>* B.Eng. in Communication Engineering, Sept. 2022 - Jun. 2026 (expected)<br>* Advisor: [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
