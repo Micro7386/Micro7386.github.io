@@ -21,5 +21,5 @@ submitted to *ICC Workshop* and available on *arXiv*. [[PDF](https://arxiv.org/p
 
 # Education
 University of Electronic Science and Technology of China
-* B.Eng. in Communication Engineering, Sept. 2022 - Jun. 2026(expected)
+* B.Eng. in Communication Engineering, Sept. 2022 - Jun. 2026 (expected)
 * Advisor: [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm)
