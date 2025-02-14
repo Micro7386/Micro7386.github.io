@@ -21,7 +21,7 @@ submitted to *ICC Workshop* and available on *arXiv*. [[PDF](https://arxiv.org/p
 
 # Education
 <div style="display: flex; align-items: center;">
-    <div style="flex: 1; margin-right: 20px;">
+    <div style="flex: 1; margin-right: 10px;">
         ![UESTC_banner](../images/UESTC.png)
     </div>
     <div style="flex: 2;">
