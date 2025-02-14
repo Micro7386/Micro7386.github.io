@@ -22,7 +22,7 @@ submitted to *ICC Workshop* and available on *arXiv*. [[PDF](https://arxiv.org/p
 # Education
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; margin-right: 20px;">
-        ![UESTC_banner](https://example.com/path/to/image.jpg)
+        ![UESTC_banner](../images/UESTC.jpg)
     </div>
     <div style="flex: 2;">
         University of Electronic Science and Technology of China
