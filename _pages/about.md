@@ -28,7 +28,7 @@ submitted to *ICC Workshop* and available on *arXiv*. [[PDF](https://arxiv.org/p
         <p>University of Electronic Science and Technology of China</p>
         <ul>
             <li>B.Eng. in Communication Engineering, Sept. 2022 - Jun. 2026 (expected)</li>
-            <li>Advisor: <a href="https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm">Prof. Weidong Mei</a></li>
+            <li>Supervisor: <a href="https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm">Prof. Weidong Mei</a></li>
         </ul>
     </div>
 </div>
