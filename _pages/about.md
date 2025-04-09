@@ -17,7 +17,7 @@ I am Wang Yushen, a third-year undergraduate student majoring in communication e
 - 🧠 AI for X: e.g., AI-empowered wireless communications  
 
 # 📚 Publications
-1. **Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing**  
+**Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing**  
 **Y. Wang**, [W. Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm), [X. Wei](https://scholar.google.com/citations?user=pkDJmeMAAAAJ&hl=zh-CN), [B. Ning](https://scholar.google.com/citations?user=ftQU5UcAAAAJ&hl=zh-CN), and [Z. Chen](https://faculty.uestc.edu.cn/chenzhi2/zh_CN/index.htm),  
 accepted by *2025 International Conference on Communications (ICC) Workshop* and currently available on *arXiv*. [[PDF](https://arxiv.org/pdf/2502.03169)]  
 
