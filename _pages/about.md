@@ -24,7 +24,7 @@ accepted by *2025 International Conference on Communications (ICC) Workshop* and
 # Education 🎓
 <div style="display: flex; align-items: center;">
     <div style="flex: 1">
-        <img src="../images/UESTC.png" alt="UESTC_banner" style="width: 80%;">
+        <img src="../images/UESTC.png" alt="UESTC_banner" style="width: 70%;">
     </div>
     <div style="flex: 2;">
         <p>University of Electronic Science and Technology of China</p>
