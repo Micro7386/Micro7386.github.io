@@ -13,8 +13,8 @@ I am Wang Yushen, a third-year undergraduate student majoring in communication e
 
 # Research Interests 🔬
 - 🌐 ireless communications: e.g., Integrated Sensing and Communications (ISAC) 📡🌀
-- 🤖 artificial intelligence: e.g., computer vision for image processing 📷🧠
-- 🧠 AI for X: e.g., AI-empowered wireless communications 📈📶  
+- 🤖 artificial intelligence: e.g., computer vision for image processing
+- 🧠 AI for X: e.g., AI-empowered wireless communications    
 
 # Publications
 1. **Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing**  
