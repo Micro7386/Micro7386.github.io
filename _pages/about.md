@@ -9,11 +9,11 @@ redirect_from:
 
 Hi! Thanks for visiting my homepage!  
 
-I am Wang Yushen, a third-year undergraduate student majoring in communication engineering at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/), UESTC.  
+I am Wang Yushen, a third-year undergraduate student majoring in communication engineering at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/), UESTC.
 
-My research interests lie in wireless communications, particularly Integrated Sensing and Communications (ISAC), near-field communications (NFC), movable antennas (MAs), extremely large multiple-input-multiple-output (XL-MIMO) as well as AI for communications.
+My research interests lie in borad areas of wireless communications and artificial intelligence, particularly Integrated Sensing and Communications (ISAC), computer vision for image processing and AI for communications. Currently I am looking for graduate programs (Master's or Ph.D.) in broad areas related to wireless communications, artificial intelligence and robotics, with admissions for Fall 2026.  
 
-# Publications
+# Publication
 1. **Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing**  
 **Y. Wang**, [W. Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm), [X. Wei](https://scholar.google.com/citations?user=pkDJmeMAAAAJ&hl=zh-CN), [B. Ning](https://scholar.google.com/citations?user=ftQU5UcAAAAJ&hl=zh-CN), and [Z. Chen](https://faculty.uestc.edu.cn/chenzhi2/zh_CN/index.htm),  
 in *2025 International Conference on Communications (ICC) Workshop* and currently available on *arXiv*. [[PDF](https://arxiv.org/pdf/2502.03169)]  
