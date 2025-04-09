@@ -9,9 +9,12 @@ redirect_from:
 
 Hi! Thanks for visiting my homepage!  
 
-I am Wang Yushen, a third-year undergraduate student majoring in communication engineering at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/), UESTC.
+I am Wang Yushen, a third-year undergraduate student majoring in communication engineering at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/), UESTC. Currently I am looking for graduate programs (Master's or Ph.D.) in broad areas related to wireless communications, artificial intelligence and robotics, with admissions for Fall 2026.  
 
-My research interests 🔬 lie in borad areas of wireless communications 📡 and artificial intelligence 🤖, particularly Integrated Sensing and Communications (ISAC), computer vision for image processing and AI for communications. Currently I am looking for graduate programs (Master's or Ph.D.) in broad areas related to wireless communications, artificial intelligence and robotics, with admissions for Fall 2026.  
+# Research Interests 🔬
+- 🌐 ireless communications: e.g., Integrated Sensing and Communications (ISAC) 📡🌀
+- 🤖 artificial intelligence: e.g., computer vision for image processing 📷🧠
+- 🧠 AI for X: e.g., AI-empowered wireless communications 📈📶  
 
 # Publications
 1. **Antenna Position Optimization for Movable Antenna-Empowered Near-Field Sensing**  
