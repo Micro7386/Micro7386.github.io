@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Wang Yushen"
-description              : &description "personal description"
+name                     : &name "Yushen Wang"
+description              : &description "Third-year Undergraduate at UESTC"
 url                      : https://Micro7386.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Micro7386/Micro7386.github.io"
@@ -29,7 +29,7 @@ author:
   location         : "Chengdu, China"
   employer         : "UESTC"
   uri              : # URL
-  email            : "2022190903007@std.uestc.edu.cn" 
+  email            : "xsml@std.uestc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
